@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZvoniFadic
 - 👀 I’m interested in frontend development and profesional photography
-- 🌱 I’m currently learning html, css, javascript, vue.js
-- 💞️ I’m looking to collaborate on any proyect you want and allow me to learn about code
+- 🌱 I’m currently learning html, css, bootstrap, sass, javascript, jquery, vue.js, vue router, git
+- 💞️ I’m looking to collaborate on any greelance proyect you want and allow me to improve my skills
 - 📫 How to reach me ... find me behind a camera lens on https://insightfotografia.com
 
 <!---
